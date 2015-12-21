@@ -1,0 +1,23 @@
+WEBVTT
+Styling=CEA608
+Kind=Caption
+Channel=CC1
+
+00:00:01.000 --> 00:00:04.333 line:13
+The following line is too long  
+<c.yellow>01234567890123456789012345678901</c>
+Normal line again               
+
+00:00:04.333 --> 00:00:08.500 line:13
+Start with BS                   
+<c.yellow>0123456789</c>                      
+
+00:00:08.500 --> 00:00:12.166 line:13
+BS to remove stuff              
+No last world!                  
+
+00:00:12.166 --> 00:00:16.000 line:11
+Test of TOx                     
+ TO1                            
+  TO2                           
+   TO3                          

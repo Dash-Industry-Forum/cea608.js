@@ -1,0 +1,28 @@
+WEBVTT
+Styling=CEA608
+Kind=Caption
+Channel=CC1
+
+00:00:00.333 --> 00:00:05.000 line:11
+<c.yellow>Here is a list of special chars:</c>
+
+00:00:05.000 --> 00:00:12.000 line:12
+áéíóúç÷Ññ█®°½¿™¢£♪à èâêîôûÁÉÓÚÜü
+‘¡*’━©℠•“”ÀÂÇÈÊËëÎÏïÔÙùÛ«»ÃãÍÌìÒ
+òÕõ{}\^_|∼ÄäÖöß¥¤┃ÅåØø┏┓┗┛      
+
+00:00:12.000 --> 00:00:15.000 line:11
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ This text should be boxed  ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+
+00:00:15.000 --> 00:00:18.000 line:11
+<i><u>white, italics, underline</u></i>       
+
+00:00:18.000 --> 00:00:21.000 line:13
+<c.green>green</c>                           
+
+00:00:21.000 --> 00:00:34.000 line:13
+            indent_12           
+    <u>indent_4_underlined</u>         
+<c.red>red</c><c.blue> blue</c><c.cyan> cyan</c><c.magenta> mag</c><i><u> i&u</u></i>           

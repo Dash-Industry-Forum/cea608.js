@@ -1,0 +1,27 @@
+{
+  "name": "cea608",
+  "version": "0.9.0",
+  "description": "CEA-608 parsing and generation of timed display map",
+  "main": "lib/cea608-parser.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "istanbul cover _mocha -- -R spec",
+    "coverage-report": "istanbul report --root coverage lcov"
+  },
+  "keywords": [
+    "closed captioning",
+    "subtitles",
+    "cea-608"
+  ],
+  "homepage": "https://github.com/Dash-Industry-Forum/cea608.js",
+  "author": "Torbjorn Einarsson",
+  "license": "BSD-3-Clause",
+  "repository": "github:Dash-Industry-Forum/cea608.js",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "jshint": "^2.8.0",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+  }
+}

@@ -1,8 +1,8 @@
 # cea608.js
-A JavaScript project designed to extract CEA-608 captions.
+A JavaScript project for parsing and decoding CEA-608 caption data.
 
 The input is either binary data (e.g. extracted from a SEI NAL unit) with associated timing or SCC files.
-The output is either a callbacks with time-stamped maps of 32x15 styled characters, or a WebVTT Node stream.
+The output is either callbacks with time-stamped maps of 32x15 styled characters, or a WebVTT Node stream.
 
 ## Build and test
 
