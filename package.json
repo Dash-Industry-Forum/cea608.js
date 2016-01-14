@@ -18,10 +18,9 @@
   "license": "BSD-3-Clause",
   "repository": "github:Dash-Industry-Forum/cea608.js",
   "devDependencies": {
-    "chai": "^3.4.0",
+    "chai": "^3.4.1",
     "jshint": "^2.8.0",
     "mocha": "^2.3.3"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
