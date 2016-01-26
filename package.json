@@ -1,6 +1,6 @@
 {
   "name": "cea608",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "CEA-608 parsing and generation of timed display map",
   "main": "lib/cea608-parser.js",
   "scripts": {
