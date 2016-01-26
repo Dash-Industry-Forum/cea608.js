@@ -1,0 +1,42 @@
+WEBVTT
+Styling=CEA608
+Kind=Caption
+Channel=CC1
+
+00:00:00.333 --> 00:00:03.000 line:11
+White text on black             
+
+00:00:03.000 --> 00:00:06.000 line:11
+<c.bg_white.blue> Blue text on white</c>             
+<c.bg_green> White text on green</c>            
+<c.bg_blue> White text on blue</c>             
+
+00:00:06.000 --> 00:00:09.000 line:11
+<c.bg_cyan> White text on cyan</c>             
+<c.bg_red> White text on red</c>              
+<c.bg_yellow> White text on yellow</c>           
+
+00:00:09.000 --> 00:00:12.000 line:11
+<c.bg_magenta> White text on magenta</c>          
+<c.transparent> White text on transparent</c>      
+<c.transparent.blue> Blue text on transparent</c>       
+
+00:00:12.000 --> 00:00:15.000 line:11
+<c.bg_white.black>Black on white</c>                  
+<u><c.bg_white.black>Black underline on white</c></u>        
+<c.transparent.black>Black on transparent</c>            
+
+00:00:15.000 --> 00:00:18.000 line:11
+<c.semi-transparent.bg_white.blue>Blue text on white semitrans</c>    
+<c.semi-transparent.bg_green> White text on green semitrans</c>  
+<c.semi-transparent.bg_blue> White text on blue semitrans</c>   
+
+00:00:18.000 --> 00:00:21.000 line:11
+<c.semi-transparent.bg_cyan> White text on cyan semitrans</c>   
+<c.semi-transparent.bg_red> White text on red semitrans</c>    
+<c.semi-transparent.bg_yellow> White text on yellow semitrans</c> 
+
+00:00:21.000 --> 00:00:25.000 line:11
+<c.semi-transparent.bg_magenta> White text on magenta semitrans</c>
+<c.semi-transparent.bg_black> White on black semitrans</c>       
+<c.transparent>R</c><c.bg_blue>A</c><c.bg_green>I</c><c.bg_red>N</c><c.bg_yellow>B</c><c.bg_cyan>O</c><c.bg_magenta>W</c>!                        

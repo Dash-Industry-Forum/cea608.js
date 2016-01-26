@@ -1,0 +1,7 @@
+WEBVTT
+Styling=CEA608
+Kind=Caption
+Channel=CC1
+
+00:00:00.666 --> 00:00:03.000 line:11
+<c.yellow>   yellow</c><c.red.blink> flashing</c> white static 
