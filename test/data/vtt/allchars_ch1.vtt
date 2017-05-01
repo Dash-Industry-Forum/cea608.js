@@ -25,4 +25,4 @@ Channel=CC1
 00:00:21.000 --> 00:00:34.000 line:13
             indent_12           
     <u>indent_4_underlined</u>         
-<c.red>red</c><c.blue> blue</c><c.cyan> cyan</c><c.magenta> mag</c><i><u> i&u</u></i>           
+<c.red>red </c><c.blue>blue </c><c.cyan>cyan </c><c.magenta>mag </c><i><u>i&u</u></i>           
