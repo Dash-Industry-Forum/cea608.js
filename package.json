@@ -1,6 +1,6 @@
 {
   "name": "cea608",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CEA-608 parsing and generation of timed display map",
   "main": "lib/cea608-parser.js",
   "scripts": {
@@ -14,9 +14,10 @@
     "cea-608"
   ],
   "homepage": "https://github.com/Dash-Industry-Forum/cea608.js",
-  "author": "Torbjorn Einarsson",
+  "author": "Torbjorn Einarsson <torbjorn.einarsson@edgeware.tv>",
   "license": "BSD-3-Clause",
   "repository": "github:Dash-Industry-Forum/cea608.js",
+  "bugs": "https://github.com/Dash-Industry-Forum/cea608.js/issues",
   "devDependencies": {
     "chai": "^3.4.1",
     "jshint": "^2.8.0",
